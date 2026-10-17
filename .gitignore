@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+# Data and generated outputs
+data/
+artifacts/
+*.pt
+*.pth
+*.ckpt
+*.csv
+*.png
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.env
